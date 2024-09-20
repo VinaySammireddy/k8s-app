@@ -60,7 +60,7 @@
 				</executions>
 				<configuration>
 					<!-- todo -->
-					<repository>VinaySammireddy/${project.name}</repository>
+					<repository>vinaysammireddy/${project.name}</repository>
 					<tag>${project.version}</tag>
 					<buildArgs>
 						<JAR_FILE>target/${project.build.finalName}.jar</JAR_FILE>
